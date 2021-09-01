@@ -1,28 +1,34 @@
 # Scroll Test
 
-🥱 Testing scrolling libs.
+🥱 Testing scrolling libs. [Contribute](#contribute).
 
-## @gblazex - Smooth scroll for websites
+## Table of libs
 
-- [Demo](/gblazex-smooth-scroll)
-- [GitHub](https://github.com/gblazex/smoothscroll-for-websites)
+| Name | Demo | Good to use? | Note |
+| --- | --- | --- | --- |
+| [@gblazex - Smooth scroll for websites](https://github.com/gblazex/smoothscroll-for-websites) | [Demo](/gblazex-smooth-scroll) | ❌ |  |
+| [@baptistebriel - Smooth Scrolling](https://github.com/baptistebriel/smooth-scrolling) | [Demo](/baptistebriel-smooth-scrolling) | ❌ | |
+| [@grsmto - SimpleBar](https://github.com/Grsmto/simplebar) | [Demo](/grsmto-simplebar) | ✅ |
+| [@ayamflow - Virtual Scroll](https://github.com/ayamflow/virtual-scroll) | [Demo](/ayamflow-virtual-scroll) | ❌ |
 
-## @baptistebriel - Smooth Scrolling
+## Contribute
 
-- [Demo](/baptistebriel-smooth-scrolling)
-- [GitHub](https://github.com/baptistebriel/smooth-scrolling)
+This is a researching task which might improve the UX/UI of our projects through the scrolling experience.
+Here's how you can contribute:
 
-## @grsmto - SimpleBar
+### Add new libs
 
-- [Demo](/grsmto-simplebar)
-- [GitHub](https://github.com/Grsmto/simplebar)
+The world is changing everyday, we need to refresh ourself to keep up.
 
-## @ayamflow - Virtual Scroll
+1. Fork this repo
+2. Create a folder for new libs followed this name format: `[author]-[libs-name]`
+3. Create `index.html` and put your testing there.
+4. Create `README.md` to put some note of how do you use it, I know there's always a docs from the author, but we also have our own standard, remember?
+5. Once you think it's done, create PR and we will review.
 
-- [Demo](/ayamflow-virtual-scroll)
-- [GitHub](https://github.com/ayamflow/virtual-scroll)
+> See other folders for example.
 
-## @author - name
+### Testing
 
-- [Demo](#)
-- [GitHub](#)
+All libs you see in this repo have a demo, whether it could or could not use in production.
+You can test them right on demos, or fork to your GitHub and make changes locally.
